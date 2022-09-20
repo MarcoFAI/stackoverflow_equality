@@ -16,8 +16,7 @@ For this project I was interested in analysing the equality in education and wor
 I have summarized my findings in a [Blog Post on Medium](https://medium.com/@marco.schlinger/853f4c7e3566) that should give a better insight into the questions and findings. 
 
 ## File Descriptions
-A script is available for each of the four questions. Comments in it explain the procedure in more detail.
-There is also a script available to take a first look at the data.
+A script is available which addresses each of the four questions. Comments in it explain the procedure in more detail.
 
 ## Medium Blog Post 
 The main findings of the code can be found at the [Medium Blog post](https://medium.com/@marco.schlinger/853f4c7e3566)
